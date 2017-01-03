@@ -1,0 +1,4 @@
+*.merged-ca-bundle
+*.user-ca-bundle
+*.cache
+*.sublime-settings
