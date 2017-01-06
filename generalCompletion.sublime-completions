@@ -3,7 +3,7 @@
 
         "completions":
         [
-                { "trigger": "tx", "contents": "%! TEX root =" }
+                { "trigger": "tx", "contents": "% !TEX root" }
 		
         ]
 }
